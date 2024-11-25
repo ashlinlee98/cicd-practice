@@ -5,6 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 import App from './App.js'
 
+// It doesn't like to detect my test comments
+
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <App />
 )
